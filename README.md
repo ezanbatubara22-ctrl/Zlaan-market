@@ -1,10 +1,10 @@
-# Toko-online-Eizlan-
+# Zlaan-market
 <!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Toko Eizlan</title>
+    <title>Zlaan Market</title>
     <style>
         * {
             margin: 0;
